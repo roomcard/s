@@ -1,0 +1,13 @@
+probability for no is 0.5
+probability for yes is 0.5
+calculating the likelihood for no
+likelyhood probability for P(weak/no) is  0.5
+likelyhood probability for P(high/no) is  0.75
+likelyhood probability for P(sunny/no) is  0.75
+likelyhood probability for P(hot/no) is  0.5
+calculating the likelihood for yes
+likelyhood probability for P(weak/yes) is  1.0
+likelyhood probability for P(high/yes) is  0.5
+likelyhood probability for P(sunny/yes) is  0.25
+likelyhood probability for P(hot/yes) is  0.25
+class label for {'wind': 'weak', 'humidity': 'high', 'outlook': 'sunny', 'temp': 'hot'} is yes

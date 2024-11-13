@@ -1,0 +1,36 @@
+<----------------calculating gini index for outlook------------>
+probability for sunny in the data is 4/8
+P(no/sunny) is 0.75
+P(yes/sunny) is 0.25
+probability for overcast in the data is 1/8
+P(yes/overcast) is 1.0
+probability for rain in the data is 3/8
+P(yes/rain) is 0.67
+P(no/rain) is 0.33
+Gini index for outlook: 0.353325
+<----------------calculating gini index for temp------------>
+probability for hot in the data is 3/8
+P(no/hot) is 0.67
+P(yes/hot) is 0.33
+probability for mild in the data is 2/8
+P(yes/mild) is 0.5
+P(no/mild) is 0.5
+probability for cool in the data is 3/8
+P(yes/cool) is 0.67
+P(no/cool) is 0.33
+Gini index for temp: 0.45665
+<----------------calculating gini index for humidity------------>
+probability for high in the data is 5/8
+P(no/high) is 0.6
+P(yes/high) is 0.4
+probability for normal in the data is 3/8
+P(yes/normal) is 0.67
+P(no/normal) is 0.33
+Gini index for humidity: 0.46582499999999993
+<----------------calculating gini index for wind------------>
+probability for weak in the data is 6/8
+P(no/weak) is 0.33
+P(yes/weak) is 0.67
+probability for strong in the data is 2/8
+P(no/strong) is 1.0
+Gini index for wind: 0.33164999999999994
